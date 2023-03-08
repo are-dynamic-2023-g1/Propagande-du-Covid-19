@@ -8,9 +8,11 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 ## Présentation de l'équipe
 
-|(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ |
+
+|(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
 |-----|--|--|--|
-| L.Jean-Yves | R.Priyankan | B.Mohamed  |
+| L. Jean-Yves | J. Doe | A. Onyme  | N. Nescio  |
+
 
 
 ## Description synthétique du projet
