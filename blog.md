@@ -7,4 +7,4 @@
 ### Semaine 3
 ### ...
 
-<a href="index.html"> Retour à la page principale </a>
+<a href="index.md"> Retour à la page principale </a>
