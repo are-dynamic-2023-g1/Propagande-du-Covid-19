@@ -31,7 +31,7 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
 
-## Lien vers page de blog : <a href="[blog.html](https://github.com/are-dynamic-2023-g1/Propagande-du-Covid-19/blob/main/blog.md)"> C'est ici ! </a>
+## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a https://github.com/are-dynamic-2023-g1/Propagande-du-Covid-19/blob/main/blog.md>
 
 ## Bibliographie :
 
