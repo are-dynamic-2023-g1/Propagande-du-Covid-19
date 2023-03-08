@@ -1,10 +1,10 @@
 # Propagation-du-Covid-19
 Bonjour, nous allons vous présenter notre projet concernant la propagande du covid 19.
 
-Pourquoi avons-nous choisi ce thème ? 
--C'est un sujet d'actualité qui a pris une ampleur à l'international
--L''une des plus grande pandémie mondiale
--C'est un virus qui a touché la plupart d'entre nous, ainsi que nos proches
+Pourquoi avons-nous choisi ce thème ?
+-C'est un sujet d'actualité qui a pris une ampleur à l'international.
+-L'une des plus grande pandémie mondiale.
+-C'est un virus qui a touché la plupart d'entre nous, ainsi que nos proches.
 
 Qu'est ce que le covid 19 (alias coronavirus) ?
 
