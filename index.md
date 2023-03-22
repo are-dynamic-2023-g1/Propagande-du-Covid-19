@@ -17,13 +17,19 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 ## Description synthétique du projet
 
-**Problématique :** 
+**Problématique :** Comment limiter efficacement la propagation du COVID-19 tout en maintenant une activité économique et sociale suffisante pour répondre aux besoins de la population?
 
-**Hypothèse principale :**
+**Hypothèse principale :**"En adoptant des mesures strictes de distanciation sociale, de port de masques et de dépistage régulier, combinées à une campagne de vaccination rapide et efficace, il serait possible de réduire significativement la propagation du COVID-19 tout en permettant une reprise progressive de l'activité économique et sociale."
 
-**Hypothèses secondaires :** 
+Il est important de noter que cette hypothèse est basée sur les connaissances scientifiques actuelles et les bonnes pratiques recommandées par les organismes de santé publique. Cependant, elle pourrait être affinée ou révisée en fonction de l'évolution de la situation et de la disponibilité de nouvelles données.
 
-**Objectifs :**
+**Hypothèses secondaires :** "La réussite de la stratégie visant à limiter la propagation du COVID-19 dépendra de la collaboration et de l'adhésion de la population aux mesures sanitaires recommandées, ainsi que de la capacité des autorités sanitaires à adapter leur approche en fonction des évolutions de la pandémie."
+
+En effet, même si des mesures efficaces sont mises en place, leur succès dépendra en grande partie de l'acceptation et du respect de ces mesures par la population. De plus, la pandémie étant une situation en constante évolution, il sera nécessaire d'adapter les stratégies de santé publique en fonction des changements dans la transmission du virus et de la réponse de la population aux mesures sanitaires.
+
+**Objectifs :**"Réduire la propagation du COVID-19 à un niveau suffisamment faible pour permettre une reprise progressive de l'activité économique et sociale, tout en préservant la santé et la sécurité de la population."
+
+Pour atteindre cet objectif, il faudrait mettre en place des mesures efficaces de prévention et de contrôle de la transmission du virus, telles que la vaccination, le dépistage, la distanciation sociale, le port du masque, l'hygiène des mains et la ventilation adéquate des espaces intérieurs. Il sera également important de maintenir un suivi rigoureux de l'évolution de la pandémie et d'adapter les mesures en conséquence, tout en assurant une communication transparente et régulière avec la population pour maintenir la confiance et l'engagement envers les stratégies de santé publique.
 
 **Critère(s) d'évaluation :**
 
