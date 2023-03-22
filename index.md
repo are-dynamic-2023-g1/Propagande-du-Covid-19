@@ -31,7 +31,20 @@ En effet, même si des mesures efficaces sont mises en place, leur succès dépe
 
 Pour atteindre cet objectif, il faudrait mettre en place des mesures efficaces de prévention et de contrôle de la transmission du virus, telles que la vaccination, le dépistage, la distanciation sociale, le port du masque, l'hygiène des mains et la ventilation adéquate des espaces intérieurs. Il sera également important de maintenir un suivi rigoureux de l'évolution de la pandémie et d'adapter les mesures en conséquence, tout en assurant une communication transparente et régulière avec la population pour maintenir la confiance et l'engagement envers les stratégies de santé publique.
 
-**Critère(s) d'évaluation :**
+**Critère(s) d'évaluation :** 
+Taux de transmission : Le taux de transmission du virus devrait diminuer à un niveau suffisamment faible pour permettre une réduction significative du nombre de cas et de la pression sur le système de santé.
+
+    Taux de vaccination : Le taux de vaccination devrait être élevé pour réduire la transmission du virus et protéger les populations les plus vulnérables.
+
+    Adhésion de la population : L'adhésion de la population aux mesures sanitaires recommandées, telles que la distanciation sociale et le port du masque, devrait être élevée pour limiter la propagation du virus.
+
+    Impact économique et social : La reprise de l'activité économique et sociale devrait être mesurée pour évaluer l'impact de la stratégie sur la qualité de vie de la population.
+
+    Capacité du système de santé : La capacité du système de santé à traiter les patients atteints de COVID-19 devrait être évaluée pour s'assurer que les ressources sont suffisantes pour répondre aux besoins de la population.
+
+    Acceptabilité de la stratégie : La stratégie de santé publique mise en place devrait être acceptable pour la population en termes de coûts, de faisabilité, et de compatibilité avec les valeurs et les croyances de la population.
+
+En fonction de ces critères d'évaluation, il serait possible de mesurer l'efficacité de la stratégie de santé publique et de l'ajuster en conséquence pour atteindre l'objectif principal de limiter la propagation du COVID-19 tout en maintenant une activité économique et sociale suffisante pour répondre aux besoins de la population.
 
 ## Présentation structurée des résultats
 
