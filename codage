@@ -1,0 +1,58 @@
+##Codage
+
+
+import numpy as np
+from scipy.integrate import odeint
+import matplotlib.pyplot as plt
+
+
+N = 100000  # population totale
+I0, R0 = 1, 0  # nombre initial d'infectés et de personnes récupérées
+S0 = N - I0 - R0 # nombre initial de personnes saines
+beta = 0.2    # taux de transmission
+gamma = 0.1   # taux de récupération
+
+
+L = 100    
+H = 100    
+
+
+grid = np.zeros((L, H, 3), dtype=np.uint8)
+grid[..., 0] = 255  # initialisation de la grille avec des pixels rouges (sains)
+
+# Modèle SIR 
+def model(y, t, N, beta, gamma):
+    S, I, R = y
+    dSdt = -beta * S * I / N
+    dIdt = beta * S * I / N - gamma * I
+    dRdt = gamma * I
+    return dSdt, dIdt, dRdt
+
+
+y0 = S0, I0, R0
+
+
+t = 0
+while t < 365:
+    # Calcul des nouvelles valeurs de S, I, R
+    ret = odeint(model, y0, [0, 0.5], args=(N, beta, gamma))
+    S, I, R = ret[-1]
+    y0 = S, I, R
+
+
+    for i in range(L):
+        for j in range(H):
+            if np.random.rand() < I / N:
+                grid[i, j] = [0, 255, 0]  # pixel vert pour les inféctés
+            elif np.random.rand() < R / N:
+                grid[i, j] = [255, 0, 0]  # pixel rouge pour les sains et récupérés
+    
+    
+    plt.imshow(grid)
+    plt.axis('off')
+    plt.title(f'Temps: {t} jours')
+    plt.pause(0.02)
+    
+    t += 1
+
+plt.show()
