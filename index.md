@@ -1,10 +1,14 @@
 #Propagande du covid 19
 
-Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
+Nous avons réaliser un projet concernant la propagation du COVID-19 ainsi les effets du vaccin et des mesures sanitaires.
 
 ## Propanganda of Covid 19
 
-Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
+We have realize a project concerning the spread of COVID-19, the effects of the vaccin and sanitary mesures.
+
+## Introduction 
+
+Le coronavirus est une maladie infectueuse due au virus SARS-CoV-2. Elle est très contagieuse, et se fait principalement par transmission aérienne. La plupart des personnes infectées par le virus présentent une maladie respiratoire d’intensité légère et se rétablissent sans avoir besoin d’un traitement particuliers. Certains cependant, tombent gravement malades et ont besoin de soins médicaux ( Les personnes âgées, ceux qui ont des maladies chroniques, etc... ). Depuis le printemps 2020, on compte plus de 755 Millions de cas confirmés et environs 6,8 Millions de décès. Après cela, il y a des vaccins qui ont été crée afin de contrer ce virus ( Pfizer, Astra- Zeneca, Moderna…) , donc beaucoup moins de cas que le début.
 
 ## Présentation de l'équipe
 
