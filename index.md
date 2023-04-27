@@ -33,7 +33,7 @@ Le coronavirus est une maladie infectueuse due au virus SARS-CoV-2. Elle est tr�
 
 Le modèle qu'on a utilisé pour pouvoir réaliser ce projet est le modèle SIR épidémiologie. En effet, c'est le modèle
 
-range(L):
+![image](https://user-images.githubusercontent.com/125459115/234911165-3c838a9d-35a4-46c9-b918-960fb9d576bf.png)
 
 ## Présentation structurée des résultats
 
